@@ -1,0 +1,177 @@
+@font-face {
+  font-family: sofiapro-light;
+  src: url("sofiapro/Fonts/sofiapro-light.otf"); }
+* {
+  font-family: sofiapro-light; }
+
+.navbar-default {
+  background-color: white;
+  border: 1px solid #cccccc;
+  height: 81px; }
+
+.collapse {
+  margin-top: 0px; }
+  .collapse .nav .open a i {
+    color: blue; }
+  .collapse .nav .SecondUL {
+    position: absolute;
+    left: 298px;
+    top: -54px !important; }
+  .collapse .nav .ThirdUl {
+    position: absolute;
+    left: 298px;
+    top: -81px; }
+  .collapse .nav .FourthUl {
+    position: absolute;
+    left: 298px;
+    top: -80px; }
+  .collapse .nav .FifthUl {
+    position: absolute;
+    left: 298px;
+    top: -80px; }
+  .collapse .nav .SixthUl {
+    position: absolute;
+    left: 298px;
+    top: -80px; }
+  .collapse .nav .SeventhUl {
+    position: absolute;
+    left: 298px;
+    top: -80px; }
+  .collapse .nav .EighthUl {
+    position: absolute;
+    left: 298px;
+    top: -80px; }
+  .collapse .nav .NinthUl {
+    position: absolute;
+    left: 298px;
+    top: -80px; }
+  .collapse .nav .drop {
+    height: 79px;
+    border-right: 1px solid #cccccc;
+    width: 100px; }
+    .collapse .nav .drop a {
+      margin-top: 15px;
+      background: white;
+      float: left;
+      padding-left: 25px;
+      padding-right: 0px; }
+      .collapse .nav .drop a i {
+        font-size: 24px;
+        color: #999999; }
+    .collapse .nav .drop span {
+      margin-left: 24px; }
+      .collapse .nav .drop span img {
+        margin-top: 40px; }
+    .collapse .nav .drop .dropdown-menu {
+      width: 300px;
+      min-height: 685px;
+      border-color: #cccccc;
+      padding-top: 50px; }
+      .collapse .nav .drop .dropdown-menu p {
+        color: black !important; }
+        .collapse .nav .drop .dropdown-menu p a {
+          text-decoration: none;
+          color: black !important;
+          font-size: 16px;
+          padding-left: 40px; }
+          .collapse .nav .drop .dropdown-menu p a i {
+            margin-left: 35px;
+            color: black; }
+      .collapse .nav .drop .dropdown-menu li {
+        margin-bottom: 28px; }
+        .collapse .nav .drop .dropdown-menu li a {
+          width: 275px;
+          font-size: 16px;
+          color: #0065ac;
+          font-family: SofiaPro;
+          padding-left: 40px; }
+          .collapse .nav .drop .dropdown-menu li a i {
+            font-size: 15px;
+            margin-top: 3px; }
+        .collapse .nav .drop .dropdown-menu li a:hover {
+          background-color: #f5f5f5; }
+    .collapse .nav .drop .open a {
+      background: white; }
+  .collapse .nav .firtsUl .dropdown {
+    border: none; }
+  .collapse .navbar-right li a {
+    font-size: 18px;
+    padding-top: 32px;
+    padding-bottom: 27px;
+    padding-left: 18px; }
+    .collapse .navbar-right li a i {
+      color: #999999;
+      margin-right: 16px; }
+  .collapse .navbar-right .login {
+    width: 130px; }
+  .collapse .navbar-right .register {
+    width: 170px; }
+  .collapse .navbar-right .star {
+    width: 100px;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc; }
+  .collapse .navbar-right .cart {
+    width: 180px; }
+    .collapse .navbar-right .cart a {
+      padding-left: 55px !important; }
+
+#header {
+  min-height: 500px; }
+  #header .nese {
+    height: 683px; }
+  #header span {
+    font-size: 16px;
+    color: #666666;
+    float: left; }
+  #header h6 {
+    margin-top: 2px;
+    font-size: 16px;
+    margin-left: 27px;
+    margin-bottom: 14px; }
+  #header input {
+    padding-left: 22px;
+    width: 100%;
+    height: 37px;
+    border: 1px solid #cccccc;
+    color: black !important;
+    margin-left: 27px; }
+  #header input[placeholder], #header [placeholder], #header *[placeholder] {
+    color: #999999;
+    font-size: 16px !important; }
+  #header input:focus {
+    outline: none; }
+  #header p {
+    font-size: 14px;
+    color: #666666;
+    margin-left: 27px;
+    margin-top: 10px; }
+  #header .pre {
+    width: 180px;
+    height: 50px;
+    font-size: 18px;
+    border: 1px solid #cccccc;
+    color: #666666;
+    margin-right: 20px;
+    background: white; }
+  #header .next {
+    width: 180px;
+    height: 50px;
+    font-size: 18px;
+    background: #db2839;
+    color: white;
+    border: none; }
+  #header button:focus {
+    outline: none; }
+
+#footer {
+  height: 95px;
+  border-top: 1px solid #cccccc; }
+  #footer h6 {
+    font-size: 18px;
+    color: #999999;
+    margin-top: 20px; }
+    #footer h6 .fa-facebook-official {
+      margin-left: 43px;
+      margin-right: 22px; }
+
+/*# sourceMappingURL=style.css.map */
